@@ -1,4 +1,14 @@
-require("dotenv").config();
+const http = require('http');
+const express = require('express');
+const app = express();
+app.get("/", (request, response) => {
+  console.log(Date.now() + " Ping Received");
+  response.sendStatus(200);
+});
+app.listen(process.env.PORT);
+setInterval(() => {
+  http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
+}, 280000);
 
 const [Discord, Settings, fs] = [require("discord.js"), require("./settings.json"), require("fs")];
 
@@ -44,6 +54,7 @@ Client.on("messageDelete", function (message) {
 
 Client.on("message", function (message) {
     if (Settings.LogMessages == true) {
+      let r;
         try {
             r = "!ERROR 0x01!"
             if (message.channel.type == "text") {
@@ -71,4 +82,4 @@ Client.on("message", function (message) {
     } catch (e) { console.log(e) };
 });
 
-Client.login();
+Client.login(Settings.Token);

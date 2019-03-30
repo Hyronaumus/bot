@@ -1,4 +1,4 @@
-const [fs, request, Numbers] = [require("fs"), require("request"), require("../../../selfboat/modules/numbers.js")];
+const [fs, request, Numbers] = [require("fs"), require("request"), require("../../modules/numbers.js")];
 
 exports.main = function (Client, message, args) {
     if (!message.member) { return };
