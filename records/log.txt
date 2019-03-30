@@ -1710,3 +1710,586 @@ https://www.roblox.com/games/374288/ROBLOX-Lua-ADVANCED-Scripting-Tutorial - Adv
 <Sat Mar 30 2019 21:22:57 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "1) Upload it somewhere, or make a site which gets each one as you need it"
 <Sat Mar 30 2019 21:23:05 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: Vivid_Void#0921 said: "<@!243491532890570753>"
 <Sat Mar 30 2019 21:23:05 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "Because you're doing a heck of a lot of processing for nothing"
+<Sat Mar 30 2019 21:23:11 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "When all this already exists"
+<Sat Mar 30 2019 21:23:15 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "but wouldn't that completely disable use in a localscript?"
+<Sat Mar 30 2019 21:23:19 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "or can localscripts also use httpget"
+<Sat Mar 30 2019 21:23:23 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "<:thinklish:448835061098217473>"
+<Sat Mar 30 2019 21:23:27 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "<:thonk:328702580861698048>"
+<Sat Mar 30 2019 21:23:28 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "Hmm"
+<Sat Mar 30 2019 21:23:31 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "no lmao"
+<Sat Mar 30 2019 21:23:32 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "Remotes"
+<Sat Mar 30 2019 21:23:33 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "<:OMEGALUL:485511144824373248>"
+<Sat Mar 30 2019 21:23:37 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "(I also don't know how to translate that form of XML into usable strings)"
+<Sat Mar 30 2019 21:23:40 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "Make a request to the server"
+<Sat Mar 30 2019 21:23:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "Remote:FireServer("GiveMeThisPropertyInfo")"
+<Sat Mar 30 2019 21:23:56 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: cøøki̾e͎s͓̽#0952 (MmC00KIESmM) said: "is there a way to make it so a tool isnt equippable"
+<Sat Mar 30 2019 21:24:00 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "but it's only 1, a module script"
+<Sat Mar 30 2019 21:24:00 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: cøøki̾e͎s͓̽#0952 (MmC00KIESmM) said: "like so someone cant pick it up"
+<Sat Mar 30 2019 21:24:02 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "how often do you plan to do that"
+<Sat Mar 30 2019 21:24:05 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "because that could suck ass"
+<Sat Mar 30 2019 21:24:27 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "I'm also going for a "getEvents()""
+<Sat Mar 30 2019 21:24:27 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: StormDirus#7510 (ben0h555) said: "How do I clear datstore data?"
+<Sat Mar 30 2019 21:24:28 GMT+0000 (UTC)>!GUILD Scripting Helpers @ site-chat: Simon_34545#7029 (testing34545) said: "lol i join the discord now"
+<Sat Mar 30 2019 21:24:32 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "I already have a theory on how to get events"
+<Sat Mar 30 2019 21:24:42 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "if it errors when I attempt to :Connect(), then it aint an event"
+<Sat Mar 30 2019 21:24:43 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: StormDirus#7510 (ben0h555) said: "🤔"
+<Sat Mar 30 2019 21:24:44 GMT+0000 (UTC)>!GUILD Scripting Helpers @ site-chat: Simon_34545#7029 (testing34545) said: "LOL MY SITE POSTS ARE A BOT"
+<Sat Mar 30 2019 21:24:46 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "well, roblox does limit you on how much you can make a call outwards"
+<Sat Mar 30 2019 21:24:49 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: cøøki̾e͎s͓̽#0952 (MmC00KIESmM) said: "nvm"
+<Sat Mar 30 2019 21:24:51 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: cøøki̾e͎s͓̽#0952 (MmC00KIESmM) said: "figured it out"
+<Sat Mar 30 2019 21:24:52 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "and same with your service provider"
+<Sat Mar 30 2019 21:25:02 GMT+0000 (UTC)>!GUILD Scripting Helpers @ site-chat: Cvieyra2test#5278 said: "lel"
+<Sat Mar 30 2019 21:25:10 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "i don't think roblox would like that if you needed to make constant checks for some reason"
+<Sat Mar 30 2019 21:25:12 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Gamer™#5926 (ScriptingEngine) said: "You"
+<Sat Mar 30 2019 21:25:16 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Gamer™#5926 (ScriptingEngine) said: "Clear a data store"
+<Sat Mar 30 2019 21:25:18 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Gamer™#5926 (ScriptingEngine) said: "By"
+<Sat Mar 30 2019 21:25:19 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "you'd be better off saving that whole document as in a string and placing it into a module. Then parsing the module for parts and their subsequent properties only once at the beginning"
+<Sat Mar 30 2019 21:25:21 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "I don't know, maybe I'm just being me?"
+<Sat Mar 30 2019 21:25:23 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Gamer™#5926 (ScriptingEngine) said: "Changing the name of it"
+<Sat Mar 30 2019 21:25:30 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "also, me'hard work would also work in times of no internet, even though you can barely do anything on Roblox with no internet lol"
+<Sat Mar 30 2019 21:25:33 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "I'm just the type of person to make this as decoupled and simple as possible."
+<Sat Mar 30 2019 21:25:38 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "oof"
+<Sat Mar 30 2019 21:25:42 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: AAhemJetRhino#4243 (master12712) said: "Thanks Vivid, that'll probably work, just gotta wrap my head round it"
+<Sat Mar 30 2019 21:25:46 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "Because as soon as Roblox adds a property, you have to account for that."
+<Sat Mar 30 2019 21:25:47 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "I'd use it, if I knew how to rip"
+<Sat Mar 30 2019 21:26:00 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "But I like to be lazy, so I do all the hard work at the start"
+<Sat Mar 30 2019 21:26:03 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "thats what I said pk"
+<Sat Mar 30 2019 21:26:06 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: Cvieyra2test#5278 said: "but"
+<Sat Mar 30 2019 21:26:07 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "And then relax later"
+<Sat Mar 30 2019 21:26:08 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "HI"
+<Sat Mar 30 2019 21:26:09 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: Cvieyra2test#5278 said: "I accessed it"
+<Sat Mar 30 2019 21:26:13 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "oh heckl"
+<Sat Mar 30 2019 21:26:13 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "but then"
+<Sat Mar 30 2019 21:26:15 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "didn't see"
+<Sat Mar 30 2019 21:26:16 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "again,"
+<Sat Mar 30 2019 21:26:24 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "roblox doesn't really add many properties"
+<Sat Mar 30 2019 21:26:26 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "now that I think about it"
+<Sat Mar 30 2019 21:26:33 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "Well, they do"
+<Sat Mar 30 2019 21:26:35 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Pkamara#9294 said: "Just not important ones"
+<Sat Mar 30 2019 21:26:38 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "oof, if they ever do an update, I hope I notice it"
+<Sat Mar 30 2019 21:26:43 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: Rodmod#4239 (ihear100cats) said: "congrats!!"
+<Sat Mar 30 2019 21:27:04 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "https://scriptinghelpers.org/questions/78357/how-do-i-make-the-points-for-players-on-my-in-game-leader-board-save-for-the-next-visit"
+<Sat Mar 30 2019 21:27:08 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Rodmod#4239 (ihear100cats) said: "heck"
+<Sat Mar 30 2019 21:27:32 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: Cvieyra2test#5278 said: "and I can put GUI's inside it as well"
+<Sat Mar 30 2019 21:27:36 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: Cvieyra2test#5278 said: "and it appears on the user's screen"
+<Sat Mar 30 2019 21:27:39 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: Cvieyra2test#5278 said: "so idk if I broke Roblox or what"
+<Sat Mar 30 2019 21:27:45 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: Cvieyra2test#5278 said: "but :FindFirstChild() doesn't work"
+<Sat Mar 30 2019 21:27:50 GMT+0000 (UTC)>!GUILD Bot Center @ command-center: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>util run console.log("this is a test");"
+<Sat Mar 30 2019 21:27:54 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: Cvieyra2test#5278 said: "but FindFirstChildOfClass() does"
+<Sat Mar 30 2019 21:27:57 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "There's a really cool plugin that allows to to swap objects but keep their properties. It uses the most recent properties by using a get request. It's amazing and very powerful. And I don't use it exclusively because I have to publish the game and be connected to the internet every time I want to use it."
+<Sat Mar 30 2019 21:28:18 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: Jordan.#6070 (freelol101) said: "table= {
+[1] = "main",
+[2] = "second",
+[3] = "direct",
+[4] = "var",
+[5] = "vbar"
+}
+
+math.randomseed(tick())
+
+print(table[math.random(1, #table)])"
+<Sat Mar 30 2019 21:28:33 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "It's just useless to me cause I don't want that overhead."
+<Sat Mar 30 2019 21:28:34 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: Rodmod#4239 (ihear100cats) said: "yeah"
+<Sat Mar 30 2019 21:28:40 GMT+0000 (UTC)>!GUILD Bot Center @ command-center: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>util run console.log('test');"
+<Sat Mar 30 2019 21:28:40 GMT+0000 (UTC)>!GUILD Bot Center @ command-center: myliverwillhandlewhatmyheartcant#3846 (test) said: ":gear: **Input**
+```js
+console.log('test');
+```"
+<Sat Mar 30 2019 21:28:40 GMT+0000 (UTC)>!GUILD Bot Center @ command-center: myliverwillhandlewhatmyheartcant#3846 (test) said: ":white_check_mark: **Output**
+```x1
+test
+```"
+<Sat Mar 30 2019 21:28:40 GMT+0000 (UTC)>!GUILD Bot Center @ bot-feedback: myliverwillhandlewhatmyheartcant#3846 (test) said: ""
+<Sat Mar 30 2019 21:28:40 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "lel"
+<Sat Mar 30 2019 21:28:43 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: Jordan.#6070 (freelol101) said: "$lua table= {
+[1] = "main",
+[2] = "second",
+[3] = "direct",
+[4] = "var",
+[5] = "vbar"
+}
+
+math.randomseed(os.time())
+
+print(table[math.random(1, #table)])"
+<Sat Mar 30 2019 21:28:43 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:28:48 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: Jordan.#6070 (freelol101) said: "thanks :))"
+<Sat Mar 30 2019 21:28:53 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: Rodmod#4239 (ihear100cats) said: "np"
+<Sat Mar 30 2019 21:29:31 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "I>nsfw ass"
+<Sat Mar 30 2019 21:29:43 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw ass"
+<Sat Mar 30 2019 21:29:44 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.obutts.ru/butts_preview/04450.jpg"
+<Sat Mar 30 2019 21:29:53 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: ""
+<Sat Mar 30 2019 21:29:56 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "I also discovered there was"
+<Sat Mar 30 2019 21:30:01 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: ""RobloxLocked" and "DataCost""
+<Sat Mar 30 2019 21:30:07 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "Are you for looping through that?"
+<Sat Mar 30 2019 21:30:11 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "yes"
+<Sat Mar 30 2019 21:30:14 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "like is it numerically indexed"
+<Sat Mar 30 2019 21:30:14 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "I for loop through"
+<Sat Mar 30 2019 21:30:20 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "a defined table of "properties""
+<Sat Mar 30 2019 21:30:25 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "I just throw 'em in"
+<Sat Mar 30 2019 21:30:31 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "no me gusta"
+<Sat Mar 30 2019 21:30:34 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "dictionaries are life"
+<Sat Mar 30 2019 21:30:46 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "oh, yeah I don't use a dictionary rip"
+<Sat Mar 30 2019 21:30:51 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "array for the win"
+<Sat Mar 30 2019 21:31:00 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: WolfHat#5030 (WoolHat) said: "atrocious lol"
+<Sat Mar 30 2019 21:31:02 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>util run require("settings.json").Token="i.""
+<Sat Mar 30 2019 21:31:02 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ":x: **Error!**
+```x1
+Error: Cannot find module 'settings.json'
+```"
+<Sat Mar 30 2019 21:31:10 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: Simon_34545#7029 (testing34545) said: "print("sasdsd")"
+<Sat Mar 30 2019 21:31:19 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw hentai"
+<Sat Mar 30 2019 21:31:20 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: ""
+<Sat Mar 30 2019 21:31:23 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "muahahha"
+<Sat Mar 30 2019 21:31:23 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "also"
+<Sat Mar 30 2019 21:31:26 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "part has tons of properties"
+<Sat Mar 30 2019 21:31:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: ""
+<Sat Mar 30 2019 21:31:58 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw tits"
+<Sat Mar 30 2019 21:31:59 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.oboobs.ru/butts_preview/00990.jpg"
+<Sat Mar 30 2019 21:32:08 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "<@227126249972039681> unpack udim2 function or riot"
+<Sat Mar 30 2019 21:32:13 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: Simon_34545#7029 (testing34545) said: "$lua print("akhsgfsudfh")"
+<Sat Mar 30 2019 21:32:13 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:32:17 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "udim2 function?"
+<Sat Mar 30 2019 21:32:23 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "huh"
+<Sat Mar 30 2019 21:32:41 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "is this advanced coding I don't understand"
+<Sat Mar 30 2019 21:32:52 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "```lua
+function x(t1, t2) --{0.17, 0},{1.71, 0}
+    return UDim2.new(t1[1],t1[2],t2[1],t2[2]);
+end
+```"
+<Sat Mar 30 2019 21:32:57 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "ok done"
+<Sat Mar 30 2019 21:33:15 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: ""
+<Sat Mar 30 2019 21:33:20 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "makes lazy me happy"
+<Sat Mar 30 2019 21:33:23 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "muhahaha, it's amazing that math is a table"
+<Sat Mar 30 2019 21:33:26 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "yeah, math is a table lol"
+<Sat Mar 30 2019 21:33:37 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "but you cant add to it"
+<Sat Mar 30 2019 21:34:04 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "https://puu.sh/D7Fq6/7bc6116de8.png"
+<Sat Mar 30 2019 21:34:17 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "which is dumb because in normal lua you can do that ezpz"
+<Sat Mar 30 2019 21:35:43 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: Simon_34545#7029 (testing34545) said: "ok how can i make it so that the points save so you can rejoin and have them still be there
+```lua
+-- In 'ServerScriptService', add this into a script named 'PlayerSetup'
+local function onPlayerJoin(player)
+    local leaderstats = Instance.new("Folder")
+    leaderstats.Name = "leaderstats"
+    leaderstats.Parent = player
+ 
+    -- Display an 'IntValue' on leaderboard
+    local points = Instance.new("IntValue")
+    points.Name = "Points"
+    points.Value = 0
+    points.Parent = leaderstats
+end
+ 
+-- Run 'onPlayerJoin()' when the 'PlayerAdded' event fires
+game.Players.PlayerAdded:Connect(onPlayerJoin)```"
+<Sat Mar 30 2019 21:36:04 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "how am i supposed to test exclusively multiplayer features for my game"
+<Sat Mar 30 2019 21:36:27 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "do i need someone to join my game"
+<Sat Mar 30 2019 21:37:00 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "host a server using studio"
+<Sat Mar 30 2019 21:37:07 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "or teamcreate multiplayer"
+<Sat Mar 30 2019 21:37:46 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "OMG"
+<Sat Mar 30 2019 21:37:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "MY CAT JSUT PUKED ON MY LAPTOP CHARGER"
+<Sat Mar 30 2019 21:37:52 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "AAAAAAAAAAAAAAAAA"
+<Sat Mar 30 2019 21:37:59 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "lol"
+<Sat Mar 30 2019 21:38:00 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "freaking"
+<Sat Mar 30 2019 21:38:03 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "cat needs to STOP EATING DOG FOOD"
+<Sat Mar 30 2019 21:38:08 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "LOL"
+<Sat Mar 30 2019 21:38:10 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "i don't know anyone though"
+<Sat Mar 30 2019 21:38:11 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "they won't"
+<Sat Mar 30 2019 21:38:16 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "none of my friends are on"
+<Sat Mar 30 2019 21:38:17 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Cvieyra2test#5278 said: "stop eating the DOG FOOD aaaaa"
+<Sat Mar 30 2019 21:41:19 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "they very busy person"
+<Sat Mar 30 2019 21:41:21 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "Why does she have less roles than the almighty L E A"
+<Sat Mar 30 2019 21:41:30 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "i asum lea made the discord idk"
+<Sat Mar 30 2019 21:41:37 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "my betterdiscord isnt working s0 idk who made it"
+<Sat Mar 30 2019 21:41:40 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw tits"
+<Sat Mar 30 2019 21:41:41 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.oboobs.ru/boobs_preview/02640.jpg"
+<Sat Mar 30 2019 21:41:45 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw tits"
+<Sat Mar 30 2019 21:41:45 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw tits"
+<Sat Mar 30 2019 21:41:45 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.oboobs.ru/boobs_preview/null"
+<Sat Mar 30 2019 21:41:45 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.oboobs.ru/boobs_preview/03957.jpg"
+<Sat Mar 30 2019 21:41:46 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw tits"
+<Sat Mar 30 2019 21:41:46 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.oboobs.ru/boobs_preview/01996.jpg"
+<Sat Mar 30 2019 21:41:46 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw tits"
+<Sat Mar 30 2019 21:41:46 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.oboobs.ru/boobs_preview/00050.jpg"
+<Sat Mar 30 2019 21:41:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "but yea eva made sh"
+<Sat Mar 30 2019 21:41:50 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw tits"
+<Sat Mar 30 2019 21:41:51 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.oboobs.ru/boobs_preview/02898.jpg"
+<Sat Mar 30 2019 21:41:51 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw tits"
+<Sat Mar 30 2019 21:41:51 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw tits"
+<Sat Mar 30 2019 21:41:51 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.oboobs.ru/boobs_preview/null"
+<Sat Mar 30 2019 21:41:51 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.oboobs.ru/boobs_preview/03482.jpg"
+<Sat Mar 30 2019 21:41:59 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "it"
+<Sat Mar 30 2019 21:42:07 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "I wonder how it was back then"
+<Sat Mar 30 2019 21:42:54 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw hentai"
+<Sat Mar 30 2019 21:42:55 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/f4b1efb9e41ae7dd145958ba23ac2690ef4e040e.jpeg"
+<Sat Mar 30 2019 21:43:00 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw hentai"
+<Sat Mar 30 2019 21:43:01 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw hentai"
+<Sat Mar 30 2019 21:43:01 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/45401f23d943634f6e635b9a780c81d2d2a7b50c.png"
+<Sat Mar 30 2019 21:43:01 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw hentai"
+<Sat Mar 30 2019 21:43:02 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2827/a9daed1dbb2b5af810ab29351973ea1fcbf5a31c.png"
+<Sat Mar 30 2019 21:43:02 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2798/a76973d49ffdab16f6ac757c9a59eebd.jpeg"
+<Sat Mar 30 2019 21:43:13 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "ive been working on a game for over a month so far"
+<Sat Mar 30 2019 21:43:21 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "ok?"
+<Sat Mar 30 2019 21:43:22 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw hentai"
+<Sat Mar 30 2019 21:43:23 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/1588/f4ebf17eb1c5318a9514d1b85d022f7b59c695c9.png"
+<Sat Mar 30 2019 21:43:25 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw hentai"
+<Sat Mar 30 2019 21:43:28 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "https://scriptinghelpers.org/questions/78362/how-would-i-save-stuff-inside-of-replicated-storage <:xdd:408457517832732675>"
+<Sat Mar 30 2019 21:43:40 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "i>nsfw hentai"
+<Sat Mar 30 2019 21:43:41 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2070/ea2956a8fcb92440850f2ef05e40000e.png"
+<Sat Mar 30 2019 21:44:05 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "you don't"
+<Sat Mar 30 2019 21:44:09 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "that emoji..."
+<Sat Mar 30 2019 21:44:11 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "save the bans in a datastore"
+<Sat Mar 30 2019 21:44:13 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "what are you doing"
+<Sat Mar 30 2019 21:44:17 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "https://scriptinghelpers.org/questions/78316/can-i-do-anything-to-improve-my-obfuscator-and-make-it-more-secure rekt"
+<Sat Mar 30 2019 21:44:27 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "i rekted it"
+<Sat Mar 30 2019 21:44:37 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "*sees 96 pts*
+hold my beer"
+<Sat Mar 30 2019 21:44:41 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "*TF2 CRITICAL HIT SOUND*"
+<Sat Mar 30 2019 21:44:41 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "https://scriptinghelpers.org/questions/78357/how-do-i-make-the-points-for-players-on-my-in-game-leader-board-save-for-the-next-visit ❓"
+<Sat Mar 30 2019 21:44:47 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "<:BanHammer:252568797154639873>"
+<Sat Mar 30 2019 21:44:55 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "<:facepalm:385498280043216896>"
+<Sat Mar 30 2019 21:44:55 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "my roblox casual chat now has 3 staff members <:xdd:408457517832732675>"
+<Sat Mar 30 2019 21:45:04 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "well, 4 if you count me"
+<Sat Mar 30 2019 21:45:13 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "hey robloxwhizyt we took down the coestion"
+<Sat Mar 30 2019 21:45:15 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "c o e s t i o n"
+<Sat Mar 30 2019 21:45:18 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "C O E S T I O N"
+<Sat Mar 30 2019 21:45:18 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "nice"
+<Sat Mar 30 2019 21:45:19 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "the question"
+<Sat Mar 30 2019 21:45:22 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "`coestion`"
+<Sat Mar 30 2019 21:45:30 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "LOL"
+<Sat Mar 30 2019 21:45:41 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "oh great"
+<Sat Mar 30 2019 21:45:44 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "I just flagged"
+<Sat Mar 30 2019 21:45:49 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "one of your questions <:xdd:408457517832732675>"
+<Sat Mar 30 2019 21:45:54 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "<@!527651396346970112>"
+<Sat Mar 30 2019 21:46:01 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "yep there's your member list"
+<Sat Mar 30 2019 21:46:03 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: StormDirus#7510 (ben0h555) said: "pooooooooooooooop"
+<Sat Mar 30 2019 21:46:10 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "```lua
+print("c o e s t i o n")```"
+<Sat Mar 30 2019 21:46:11 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "HAT"
+<Sat Mar 30 2019 21:46:12 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "WHAT"
+<Sat Mar 30 2019 21:46:12 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "<@!452615881516646420> https://scriptinghelpers.org/questions/78362/how-would-i-save-stuff-inside-of-replicated-storage <:BanHammer:252568797154639873>"
+<Sat Mar 30 2019 21:46:18 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "starmaq, 0RKH and Qxantam are all admins"
+<Sat Mar 30 2019 21:46:22 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "I trust them"
+<Sat Mar 30 2019 21:46:24 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "s t a r m a q ?"
+<Sat Mar 30 2019 21:46:27 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "STARMAQ IS ADMIN"
+<Sat Mar 30 2019 21:46:28 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "why did u flAG"
+<Sat Mar 30 2019 21:46:31 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "hey what property fixes the sizing of billboardguis again like so when you zoom out it doesn't get bigger"
+<Sat Mar 30 2019 21:46:33 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "in my server yeah"
+<Sat Mar 30 2019 21:46:37 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "becuz it wasn't constrooctive"
+<Sat Mar 30 2019 21:46:41 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "he's a friend of mine I can trust him"
+<Sat Mar 30 2019 21:46:43 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "what"
+<Sat Mar 30 2019 21:47:09 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "<@!452615881516646420> https://scriptinghelpers.org/questions/78362/how-would-i-save-stuff-inside-of-replicated-storage does this need to be flagged"
+<Sat Mar 30 2019 21:47:16 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "oh rite"
+<Sat Mar 30 2019 21:47:18 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "you did flag it"
+<Sat Mar 30 2019 21:47:19 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "thankz"
+<Sat Mar 30 2019 21:47:19 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "take it down"
+<Sat Mar 30 2019 21:48:16 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "projectiles?"
+<Sat Mar 30 2019 21:48:18 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai child pornography"
+<Sat Mar 30 2019 21:48:21 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "for example rockets"
+<Sat Mar 30 2019 21:48:24 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: simplyunix#1457 (wontbyte) said: "rays are pretty damn small and they have a pretty small hitbox"
+<Sat Mar 30 2019 21:48:25 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "or lazer beems"
+<Sat Mar 30 2019 21:48:34 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "k data storage is too complicated for meeee"
+<Sat Mar 30 2019 21:48:36 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai"
+<Sat Mar 30 2019 21:48:40 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "probably region3."
+<Sat Mar 30 2019 21:48:41 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw tits"
+<Sat Mar 30 2019 21:48:42 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "http://media.oboobs.ru/boobs_preview/00379.jpg"
+<Sat Mar 30 2019 21:48:45 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: simplyunix#1457 (wontbyte) said: "ight"
+<Sat Mar 30 2019 21:48:45 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai"
+<Sat Mar 30 2019 21:48:51 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "i look at the code and im like"
+<Sat Mar 30 2019 21:48:51 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "do you think that starmaq doesn't deserve to rule a server?"
+<Sat Mar 30 2019 21:48:53 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: simplyunix#1457 (wontbyte) said: "is it bad to cast a region3 every heartbeat?"
+<Sat Mar 30 2019 21:48:56 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "meh we'll see about that"
+<Sat Mar 30 2019 21:48:57 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "what the hell is this"
+<Sat Mar 30 2019 21:49:10 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "starmaq"
+<Sat Mar 30 2019 21:49:12 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "h m mm"
+<Sat Mar 30 2019 21:49:17 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "starmaq is a gud guy"
+<Sat Mar 30 2019 21:49:23 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "but I don't think he is a gud server owner."
+<Sat Mar 30 2019 21:49:30 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "**how could this happen?**"
+<Sat Mar 30 2019 21:50:14 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "```lua
+local parent = script.Parent
+local player
+
+function onChildTouched(hit)
+    if (hit.Name == "Rocket") then
+        player = hit.creator.Value
+        game.Players:GetPlayerFromCharacter(workspace[player]).leaderstats.Points.Value = game.Players:GetPlayerFromCharacter(workspace[player]).leaderstats.Points.Value + 10
+    end
+end
+
+for i,v in pairs(parent:GetChildren()) do
+    if v:IsA("BasePart") then
+        v.Touched:Connect(onChildTouched)
+    end
+end```"
+<Sat Mar 30 2019 21:50:25 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "I'll give him a try and if he uses the role like a maniac then I'll demote him to members"
+<Sat Mar 30 2019 21:50:43 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai"
+<Sat Mar 30 2019 21:50:44 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "how do I get more claim weight"
+<Sat Mar 30 2019 21:50:44 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/4f6814b1f42d487de0ec66eace758c850b65ead1.png"
+<Sat Mar 30 2019 21:50:49 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai child pornography"
+<Sat Mar 30 2019 21:50:59 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "get moar rep"
+<Sat Mar 30 2019 21:51:03 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "???"
+<Sat Mar 30 2019 21:51:09 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai"
+<Sat Mar 30 2019 21:51:10 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "o h"
+<Sat Mar 30 2019 21:51:10 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/898/2f0569409c220d98f8bf5b980259c44d.png"
+<Sat Mar 30 2019 21:51:11 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: exxtremewa#9394 (exxtremestuffs) said: "guis from StarterPlayerGui don't replicate, but if guis are placed there by serverscripts then you can (somewhat) modify them"
+<Sat Mar 30 2019 21:51:15 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "thankz"
+<Sat Mar 30 2019 21:51:15 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:51:20 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: exxtremewa#9394 (exxtremestuffs) said: "with server scripts"
+<Sat Mar 30 2019 21:53:24 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "angry emoji"
+<Sat Mar 30 2019 21:53:25 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:53:27 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/a91ed4762ebe2bb692c5c491c0804d973a1c6444.jpg"
+<Sat Mar 30 2019 21:53:33 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "😡"
+<Sat Mar 30 2019 21:53:35 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: drslicendice#3412 said: "it goes inside of the other block i am rotating it on"
+<Sat Mar 30 2019 21:53:35 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "or"
+<Sat Mar 30 2019 21:53:37 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "😠"
+<Sat Mar 30 2019 21:53:38 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:53:40 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Charles Muntz#5952 (Bardelight) said: "how do i use hinges"
+<Sat Mar 30 2019 21:53:42 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2825/42734eeeff8f1a82b50316b8d0084cc004cab60d.png"
+<Sat Mar 30 2019 21:53:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "you can use HingeConstraints"
+<Sat Mar 30 2019 21:53:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: David Gingerich#2668 (DavidGingerich) said: "Lol, I found this script in one of those creepy pear models.
+```
+function onClicked(mouse)
+    script.Parent.Parent.Name = "Oh god." 
+    wait(2)
+    script.Parent.Parent.Name = "Someone kill me."
+    wait(2) 
+    script.Parent.Parent.Name = "Leave me outta this!" 
+        wait(2)
+    script.Parent.Parent.Name = "Finders keepers, dude."
+    wait(2) 
+       script.Parent.Parent.Name = "Pear"
+end
+script.Parent.ClickDetector.MouseClick:connect(onClicked)
+```"
+<Sat Mar 30 2019 21:53:57 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Charles Muntz#5952 (Bardelight) said: "idk how those work"
+<Sat Mar 30 2019 21:54:01 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:54:02 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: exxtremewa#9394 (exxtremestuffs) said: "you could do some trickery with the touched event maybe"
+<Sat Mar 30 2019 21:54:02 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:54:02 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "😠 emoji"
+<Sat Mar 30 2019 21:54:02 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:54:03 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:54:03 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:54:07 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji emoji"
+<Sat Mar 30 2019 21:54:07 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "https://developer.roblox.com/articles/Constraints-Revolving-Door"
+<Sat Mar 30 2019 21:54:08 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2827/73544231b5ddd9e4ae9a7d5bc4d4fefd.png"
+<Sat Mar 30 2019 21:54:08 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2421/8489636eb81f13f8cad2ae6e5f57eb58.jpeg"
+<Sat Mar 30 2019 21:54:08 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2551/f55ce005ac783055bfb738c11477d146.jpeg"
+<Sat Mar 30 2019 21:54:08 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2756/5d34f61d9ad721f290dff2055f0f6f8f.jpeg"
+<Sat Mar 30 2019 21:54:09 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2827/322af4c109e2588b9989a7ba903621c058a8a134.png"
+<Sat Mar 30 2019 21:54:16 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: drslicendice#3412 said: "nnno"
+<Sat Mar 30 2019 21:54:21 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$Lua print(toString2(".... .. / .."))"
+<Sat Mar 30 2019 21:54:21 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:54:23 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai lolicon"
+<Sat Mar 30 2019 21:54:27 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2143/644dbfc89cedb9c7b2cdaf12c7e69bf0.webm"
+<Sat Mar 30 2019 21:54:31 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$Lua print(unpack(toString2(".... .. / ..")))"
+<Sat Mar 30 2019 21:54:31 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:55:04 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠 😡 😠"
+<Sat Mar 30 2019 21:55:05 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "@everyone"
+<Sat Mar 30 2019 21:55:16 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "rotate the constraints to point upwards"
+<Sat Mar 30 2019 21:55:19 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$lua function toString2(morse)
+     local tab = {}
+     local fn = {}
+     local str;
+     for moose in morse:gmatch("%s?(%S+)%s?") do 
+         for i, v in pairs(alphabet) do
+             if v == moose then
+             table.insert(tab, i )
+           end 
+        end 
+end
+return table.contact(tab)"
+<Sat Mar 30 2019 21:55:19 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:55:24 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Simon_34545#7029 (testing34545) said: "@everyone come @here"
+<Sat Mar 30 2019 21:55:30 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "https://tenor.com/view/full-metal-jacket-who-pinged-me-gunnery-sergeant-hartman-chat-ping-pong-gif-11748348"
+<Sat Mar 30 2019 21:57:13 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$lua for a, v in pairs(unpack(toString2("....")) do print(v) end"
+<Sat Mar 30 2019 21:57:14 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai"
+<Sat Mar 30 2019 21:57:14 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:57:15 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/aabb964bfa9ae7ce9cbd7260e6da2f11.jpeg"
+<Sat Mar 30 2019 21:57:19 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Charles Muntz#5952 (Bardelight) said: "it didnt really work"
+<Sat Mar 30 2019 21:57:19 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw"
+<Sat Mar 30 2019 21:57:25 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "pbr materials"
+<Sat Mar 30 2019 21:57:27 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "<@!317911516328493059> can you help me with this"
+<Sat Mar 30 2019 21:57:31 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "P B R"
+<Sat Mar 30 2019 21:57:31 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "glass is broken lul"
+<Sat Mar 30 2019 21:57:35 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "no it's not"
+<Sat Mar 30 2019 21:57:36 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai"
+<Sat Mar 30 2019 21:57:36 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2825/063e697ff9a064d14bdad747392cdac312e8d972.png"
+<Sat Mar 30 2019 21:57:40 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "it's just a pbr material"
+<Sat Mar 30 2019 21:57:40 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:57:41 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2826/41ddbf925b984e784358650d061d17265c7bd2e3.png"
+<Sat Mar 30 2019 21:57:44 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:57:44 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "***how could this happen***"
+<Sat Mar 30 2019 21:57:45 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2752/24692f40b0f027d6cc448d32ab10a29517dcb3a5.png"
+<Sat Mar 30 2019 21:57:46 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$lua print(toString2("...."))"
+<Sat Mar 30 2019 21:57:46 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:57:47 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "wait no"
+<Sat Mar 30 2019 21:57:49 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:57:50 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2824/a48e64c70a254f9e9cb3f75f55a1a74e.jpeg"
+<Sat Mar 30 2019 21:57:53 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:57:54 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2826/ab508442ba17985eaaf26f11c8d1915a.jpeg"
+<Sat Mar 30 2019 21:57:54 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "yeah its broken"
+<Sat Mar 30 2019 21:57:58 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:57:59 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2826/f22c6c6136dc9e3b7fdcff62239ad8ef3045ae4a.jpeg"
+<Sat Mar 30 2019 21:58:01 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "<:xdd:408457517832732675>"
+<Sat Mar 30 2019 21:58:02 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 21:58:03 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/f116259a94e3add1a6a2f8665e82f38f.jpeg"
+<Sat Mar 30 2019 21:58:03 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$lua print(unpack(toString2("....")))"
+<Sat Mar 30 2019 21:58:03 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:58:05 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: M o m e n t u m#5658 (francaiscanada10) said: "We get it, you know what pbr means."
+<Sat Mar 30 2019 21:58:10 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "no it's not go learn how to roblox"
+<Sat Mar 30 2019 21:58:12 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$lua print(unpack(toString2(".... ..")))"
+<Sat Mar 30 2019 21:58:13 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:58:22 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "`tom said it so it must be correct`"
+<Sat Mar 30 2019 21:58:22 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "oof I want there to be no space"
+<Sat Mar 30 2019 21:58:27 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "frag, are you 3 years old"
+<Sat Mar 30 2019 21:58:31 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "no im 4"
+<Sat Mar 30 2019 21:58:38 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "`you idiotic piece of potato`"
+<Sat Mar 30 2019 21:58:46 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: TSUGIHAGI SUICIDERS#8268 (Fifkee) said: "<:xd:408457388144853004>"
+<Sat Mar 30 2019 21:58:47 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$lua function toString2(morse)
+     local tab = {}
+     local fn = {}
+     local str;
+     for moose in morse:gmatch("%s?(%S+)%s?") do 
+         for i, v in pairs(alphabet) do
+             if v == moose then
+             table.insert(tab, i )
+           end 
+        end 
+end
+return tab"
+<Sat Mar 30 2019 21:58:47 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:58:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "<:xd:408457388144853004>"
+<Sat Mar 30 2019 21:58:52 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$lua print(unpack(toString2(".... ..")))"
+<Sat Mar 30 2019 21:58:52 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:59:02 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "*xd emoji here*"
+<Sat Mar 30 2019 21:59:23 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw"
+<Sat Mar 30 2019 21:59:23 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "you = potato"
+<Sat Mar 30 2019 21:59:24 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$lua function toString2(morse)
+     local tab = {}
+     local fn = {}
+     local str = ""
+     for moose in morse:gmatch("%s?(%S+)%s?") do 
+         for i, v in pairs(alphabet) do
+             if v == moose then
+             str = str..v
+           end 
+        end 
+end
+return str"
+<Sat Mar 30 2019 21:59:25 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:59:25 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: exxtremewa#9394 (exxtremestuffs) said: "unless you want to scan  every block in the workspace and generate a hitbox for each one"
+<Sat Mar 30 2019 21:59:32 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Irish#0160 (IrishStukov) said: "you = negative statement"
+<Sat Mar 30 2019 21:59:33 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai latina"
+<Sat Mar 30 2019 21:59:34 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2731/a8b6e3eb810ee856840c122c5ffa31f2.jpeg"
+<Sat Mar 30 2019 21:59:36 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$Lua print(toString2(".."))"
+<Sat Mar 30 2019 21:59:36 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 21:59:37 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Fragmentation#6309 (FragAI) said: "this post was made by the m14 gang"
+<Sat Mar 30 2019 21:59:42 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "nsfw hentai latina female solo"
+<Sat Mar 30 2019 21:59:45 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: RobloxWhiz#4268 (RobloxWhizYT) said: "https://www.clipartmax.com/png/middle/62-629327_znalezione-obrazy-dla-zapytania-thinking-emoji-meme-discord-nitro-gif-avatar.png"
+<Sat Mar 30 2019 21:59:48 GMT+0000 (UTC)>!GUILD Scripting Helpers @ commons: Irish#0160 (IrishStukov) said: "this post was made by crippling hunger gang"
+<Sat Mar 30 2019 21:59:52 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai latina female solo"
+<Sat Mar 30 2019 21:59:53 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/1644/83ace05aeabcde8f121ee4bb10db311d.jpeg"
+<Sat Mar 30 2019 21:59:58 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$Lua print(unpack(toString2("..")))"
+<Sat Mar 30 2019 21:59:58 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 22:00:00 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai latina big ass"
+<Sat Mar 30 2019 22:00:02 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/1eb26a3ad38d63677de8069ad11b1da0.jpeg"
+<Sat Mar 30 2019 22:00:09 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: drslicendice#3412 said: "i want to do it a mathematical way"
+<Sat Mar 30 2019 22:00:09 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$Lua print(unpack(toString2(".... ..")))"
+<Sat Mar 30 2019 22:00:10 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 22:00:16 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "$Lua"
+<Sat Mar 30 2019 22:00:20 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "$Lua print(unpack(toString2(".... .. / ..")))"
+<Sat Mar 30 2019 22:00:20 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 22:00:25 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: vamik64#5736 said: "ooooooof"
+<Sat Mar 30 2019 22:05:01 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: exxtremewa#9394 (exxtremestuffs) said: "`mainLoop()`"
+<Sat Mar 30 2019 22:05:01 GMT+0000 (UTC)>!GUILD Scripting Helpers @ math: drslicendice#3412 said: "i have a weird issue with dot product"
+<Sat Mar 30 2019 22:05:02 GMT+0000 (UTC)>!GUILD Scripting Helpers @ math: drslicendice#3412 said: "https://gyazo.com/b2ebd47d2942f4b0b5ee9d4687c160c4"
+<Sat Mar 30 2019 22:05:06 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: Rodmod#4239 (ihear100cats) said: "<:thonk:328702580861698048>"
+<Sat Mar 30 2019 22:05:10 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 22:05:10 GMT+0000 (UTC)>!GUILD Bot Center @ bot-feedback: myliverwillhandlewhatmyheartcant#3846 (test) said: ""
+<Sat Mar 30 2019 22:05:10 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: Anoraki#0384 (Anorakii) said: "mmmk"
+<Sat Mar 30 2019 22:05:11 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/a73a1bc51b19d27017622ff0e2f27b9a.png"
+<Sat Mar 30 2019 22:05:22 GMT+0000 (UTC)>!GUILD Scripting Helpers @ math: drslicendice#3412 said: "```lua
+local cf = CFrame.new(
+    position +
+        (normal*
+            math.abs(
+                (
+                    CFrame.new(position) * rotation
+                )
+                :vectorToWorldSpace(pclone.PrimaryPart.Size/2):Dot(normal)
+            )
+        )
+    ) 
+                
+local Relative = raypart.CFrame:ToObjectSpace (cf)
+cf = CFrame.new((raypart.CFrame * CFrame.new(util.roundVector3(Relative.Position,1))).Position) * rotation```
+seems to happen at 90-180 degrees and 270-360"
+<Sat Mar 30 2019 22:05:28 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: Anoraki#0384 (Anorakii) said: "The wiki I was looking at kept showing stuff without it"
+<Sat Mar 30 2019 22:05:31 GMT+0000 (UTC)>!GUILD Scripting Helpers @ math: drslicendice#3412 said: "where the block goes inside of the other block"
+<Sat Mar 30 2019 22:05:47 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 22:05:48 GMT+0000 (UTC)>!GUILD Bot Center @ bot-feedback: myliverwillhandlewhatmyheartcant#3846 (test) said: ""
+<Sat Mar 30 2019 22:05:48 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2798/78343b6d86c943b42b63f5f9407085ff.jpeg"
+<Sat Mar 30 2019 22:05:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: Rodmod#4239 (ihear100cats) said: "$lua print(alphabet)"
+<Sat Mar 30 2019 22:05:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ botstuff: HelperBot#9278 said: "Please wait while your code executes. [Thread will terminate after 15 seconds.]"
+<Sat Mar 30 2019 22:05:51 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: exxtremewa#9394 (exxtremestuffs) said: "then that wiki doesn't cover lua"
+<Sat Mar 30 2019 22:06:03 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai children"
+<Sat Mar 30 2019 22:06:04 GMT+0000 (UTC)>!GUILD Bot Center @ bot-feedback: myliverwillhandlewhatmyheartcant#3846 (test) said: ""
+<Sat Mar 30 2019 22:06:05 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/5d8a776ebc629bb4f4f1c9b8f6fc77c2.jpeg"
+<Sat Mar 30 2019 22:06:16 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai anime"
+<Sat Mar 30 2019 22:06:17 GMT+0000 (UTC)>!GUILD Bot Center @ bot-feedback: myliverwillhandlewhatmyheartcant#3846 (test) said: ""
+<Sat Mar 30 2019 22:06:18 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/1951/67fab7ddbd7924a807295491fc90a2ef.jpeg"
+<Sat Mar 30 2019 22:06:36 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: Rodmod#4239 (ihear100cats) said: "<@!421877664203276288> use scale on the billboard gui object"
+<Sat Mar 30 2019 22:06:46 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: Anoraki#0384 (Anorakii) said: "```
+attack = game.ReplicatedStorage.Events.Player
+
+running = false
+
+function mainLoop()
+    while running == true do
+        wait(0.25)
+        attack:FireServer("attack")
+    end
+end
+
+game:GetService("UserInputService").InputBegan:connect(function(inputObject)
+    if inputObject.KeyCode == Enum.KeyCode.X then 
+        if running == false then 
+            running = true
+        else then 
+            running = false
+        mainLoop()
+    end
+end)
+```"
+<Sat Mar 30 2019 22:06:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: Anoraki#0384 (Anorakii) said: "That's the full script"
+<Sat Mar 30 2019 22:06:52 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "yeah i figured it out"
+<Sat Mar 30 2019 22:06:52 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai 1girl"
+<Sat Mar 30 2019 22:06:53 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/a62a283106228eb27d41ca6a3b68a478cf1fbb1b.jpeg"
+<Sat Mar 30 2019 22:06:59 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "its just kind of wonky"
+<Sat Mar 30 2019 22:07:05 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: drslicendice#3412 said: "hi fadious"
+<Sat Mar 30 2019 22:07:07 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: Anoraki#0384 (Anorakii) said: "I can call attack by itself, but the input isn't found"
+<Sat Mar 30 2019 22:07:08 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "i don't get billboardguis at all"
+<Sat Mar 30 2019 22:07:11 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: ".nsfw hentai 1girl"
+<Sat Mar 30 2019 22:07:11 GMT+0000 (UTC)>!GUILD Bot Center @ nsfw-testing: myliverwillhandlewhatmyheartcant#3846 (test) said: "https://us.rule34.xxx/images/2828/572079567987071f3fa47e0bee71be3f9f584f05.jpg"
+<Sat Mar 30 2019 22:07:19 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "<@472470851992813578> wow i remember u"
+<Sat Mar 30 2019 22:07:31 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "the username only though idk anything else about u"
+<Sat Mar 30 2019 22:07:32 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: drslicendice#3412 said: "thats suprising since no one does"
+<Sat Mar 30 2019 22:07:40 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-2: Simon_34545#7029 (testing34545) said: "ok how can i make it so that the points save so you can rejoin and have them still be there
+```lua
+-- In 'ServerScriptService', add this into a script named 'PlayerSetup'
+local function onPlayerJoin(player)
+    local leaderstats = Instance.new("Folder")
+    leaderstats.Name = "leaderstats"
+    leaderstats.Parent = player
+ 
+    -- Display an 'IntValue' on leaderboard
+    local points = Instance.new("IntValue")
+    points.Name = "Points"
+    points.Value = 0
+    points.Parent = leaderstats
+end
+ 
+-- Run 'onPlayerJoin()' when the 'PlayerAdded' event fires
+game.Players.PlayerAdded:Connect(onPlayerJoin)```"
+<Sat Mar 30 2019 22:07:44 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: drslicendice#3412 said: "i made the ot raid center/minigames"
+<Sat Mar 30 2019 22:07:50 GMT+0000 (UTC)>!GUILD Scripting Helpers @ questions-1: 🎉Fadious (PARTY TIME)#5383 (FadiousV2) said: "you scripted i remember"

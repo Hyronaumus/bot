@@ -71,15 +71,14 @@ Client.on("message", function (message) {
     }
 
     if ((message.author.id != Settings.Author) || (!message.content.startsWith(Settings.Prefix))) { return };
-
+  try {
     const args = message.content.slice(Settings.Prefix.length).trim().split(/ +/g);
     const category = args.shift().toLowerCase();
     const command = args.shift().toLowerCase();
 
-    try {
-        let mod = require(`./commands/${category}/${command}`);
-        if (mod) { mod.main(Client, message, args); }
+    let mod = require(`./commands/${category}/${command}`);
+    if (mod) { mod.main(Client, message, args); }
     } catch (e) { console.log(e) };
 });
 
-Client.login(Settings.Token);
+//Client.login(Settings.Token);
